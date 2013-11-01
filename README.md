@@ -1,0 +1,2 @@
+javafx-gradle-bug
+=================
