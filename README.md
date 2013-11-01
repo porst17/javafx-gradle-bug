@@ -9,3 +9,9 @@ Test with
 ```
 ./gradlew jfxDeploy
 ```
+
+The generated application crashes while
+```
+./gradlew run
+```
+works as expected.
